@@ -1,4 +1,4 @@
-RFID Attendance System
+#RFID Attendance System
 
 an IoT Attendance System to help maintain attendance data
 and calculate working duration, overtime, and payroll/salary

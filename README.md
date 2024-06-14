@@ -6,6 +6,7 @@ and calculate working duration, overtime, and payroll/salary
 Devices:
 ESP32 - Microcontroller
 RFID RC522 - RFID Reader
+RFID Tag - RFID Card / Keychain
 I2C 128x64 pixel - OLED LCD Display
 Push Button
 Jumper Cables - Wiring
